@@ -1,4 +1,4 @@
-# Nitrate Anomaly Detection — Simple Sliding Window
+# Nitrate Anomaly Detection — Sliding Window
 
 **Author:** Simone Mayers
 
